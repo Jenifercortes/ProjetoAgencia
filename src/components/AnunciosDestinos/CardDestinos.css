@@ -1,0 +1,13 @@
+.row 
+{
+  margin-top:8%;
+  margin-bottom:8%;
+}
+.card {
+  width: 350px;
+  
+  background-color: rgba(128, 128, 128, 0.13);
+}
+.card img {
+  height: 250px
+}

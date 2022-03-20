@@ -1,0 +1,19 @@
+.footer { 
+  width: 100%;
+  white-space: nowrap;
+  height: 40px;
+
+}
+
+
+.footer img {
+width: 20%;
+height: 25px;
+cursor: pointer;
+}
+
+.footer img:hover {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
